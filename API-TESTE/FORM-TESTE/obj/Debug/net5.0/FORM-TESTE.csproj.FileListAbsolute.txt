@@ -1,0 +1,15 @@
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\bin\Debug\net5.0\FORM-TESTE.exe
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\bin\Debug\net5.0\FORM-TESTE.deps.json
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\bin\Debug\net5.0\FORM-TESTE.runtimeconfig.json
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\bin\Debug\net5.0\FORM-TESTE.runtimeconfig.dev.json
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\bin\Debug\net5.0\FORM-TESTE.dll
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\bin\Debug\net5.0\ref\FORM-TESTE.dll
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\bin\Debug\net5.0\FORM-TESTE.pdb
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\obj\Debug\net5.0\FORM-TESTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\obj\Debug\net5.0\FORM-TESTE.AssemblyInfoInputs.cache
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\obj\Debug\net5.0\FORM-TESTE.AssemblyInfo.cs
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\obj\Debug\net5.0\FORM-TESTE.csproj.CoreCompileInputs.cache
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\obj\Debug\net5.0\FORM-TESTE.dll
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\obj\Debug\net5.0\ref\FORM-TESTE.dll
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\obj\Debug\net5.0\FORM-TESTE.pdb
+C:\Users\Gaioto\source\repos\API-TESTE\FORM-TESTE\obj\Debug\net5.0\FORM-TESTE.genruntimeconfig.cache
